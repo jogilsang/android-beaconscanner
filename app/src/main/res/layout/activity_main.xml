@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/colorPrimary"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:textAlignment="center"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:gravity="center"
+        android:layout_above="@id/btn_tel"
+        android:layout_marginBottom="30dp"
+        android:id="@+id/txt_content"
+        android:textSize="24sp"
+        android:text="@string/default_text"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:padding="20dp"
+        android:id="@+id/btn_tel"
+        android:layout_centerInParent="true"
+        android:textSize="24sp"
+        android:textColor="@color/white"
+        android:text="@string/btn_comment_tel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_border_tel"
+        />
+
+
+</RelativeLayout>

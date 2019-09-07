@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">실내 음성안내 서비스</string>
+
+    <string name="location_1">장소 1</string>
+    <string name="beacon_1">D0:5F:B8:18:12:EC</string>
+    <string name="text_1">인식했을때 문구1</string>
+    <string name="tel_1">tel:</string>
+
+    <string name="location_2">장소 2</string>
+    <string name="beacon_2">D0:5F:B8:17:EA:7D</string>
+    <string name="text_2">인식했을때 문구2</string>
+    <string name="tel_2">tel:</string>
+
+    <string name="location_3">장소 3</string>
+    <string name="beacon_3">D0:5F:B8:17:ED:03</string>
+    <string name="text_3">인식했을때 문구3</string>
+    <string name="tel_3">tel:</string>
+
+    <string name="btn_comment_tel">담당자 전화연결</string>
+
+    <string name="default_text">비콘 인식시 안내문구가 전송됩니다.</string>
+    <string name="toast_tel">담당자에게 전화합니다.</string>
+
+
+</resources>
